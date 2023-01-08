@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.grey[900],
           title: Center(
-            child: Text("I am rich"),
+            child: Text("I am richer"),
           ),
         ),
         body: Center(
